@@ -19,7 +19,8 @@
 
 ## Flashing Guide
 
-- [Micro Racer Flashing Guide](FlashingGuide.md)
+- [Micro Racer Flashing Guide (recommended for all OS)](FlashingGuide_launchpad.md)
+- [Micro Racer Flashing Guide (alternate - windows only)](FlashingGuide.md)
 
 ## License
 
