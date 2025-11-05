@@ -41,7 +41,17 @@
 
 - **Default:** One-hand control  
 - Use the **mode switch** to change control modes  
-- For advanced play, see the [online manual](https://stuckatprototype.com/pages/micro-racer-manual)
+- For advanced play, see the [online manual (coming soon)](https://stuckatprototype.com/pages/micro-racer-manual)
+
+#### Thumbtroller (default) mode
+Indicated by a green LED
+
+<img src="images/manual/1.png" alt="ESPLAUNCHPAD DIY tab" width="720" />
+
+#### Side mode
+Indicated by a yellow LED
+
+<img src="images/manual/2.png" alt="ESPLAUNCHPAD DIY tab" width="720" />
 
 ---
 
