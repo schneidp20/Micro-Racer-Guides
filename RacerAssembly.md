@@ -63,7 +63,7 @@ Solder the motor leads to their corresponding connections. You can identify them
 | **Bottom left motor** | J6 (-) | WHITE |
 | | J5 (+) | BLACK |
 
-> **NOTE:** Make sure that you do not melt the plastic by separating it as much as possible while soldering. Keeping the motor leads long helps, and they hide nicely under the car body later on.
+> **NOTE:** Make sure that you do not melt the plastic by separating it as much as possible while soldering. Keeping the motor leads long helps, and they hide nicely under the car body later on. To ease soldering and help to minimize the chances of plastic damage, it helps to pre tin the pcb soldering pads. 
 
 Solder the motor leads as per the table above. Repeat steps 3 and 4 for each motor one at a time.
 
